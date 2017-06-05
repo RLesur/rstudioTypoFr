@@ -1,0 +1,14 @@
+Package: RStudioTypoFr
+Type: Package
+Title: RStudio Addins for French typographic characters
+Version: 0.1.0
+Author: Romain Lesur
+Maintainer: Romain Lesur<romain.lesur@gmail.com>
+Description: Addins to insert no-break space, left-pointing and 
+    right-pointing double quotation marks and right single 
+    quotation mark.
+License: MIT + file LICENSE
+Imports:
+  rstudioapi
+Encoding: UTF-8
+RoxygenNote: 6.0.1

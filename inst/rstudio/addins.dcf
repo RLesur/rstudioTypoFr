@@ -1,0 +1,19 @@
+Name: Insère espace insécable
+Description: Insère un espace insécable à la position du curseur.
+Binding: InsereEspaceInsecable
+Interactive: false
+
+Name: Insère «
+Description: Insère un guillemet ouvrant à la position du curseur.
+Binding: InsereGuillemetOuvrant
+Interactive: false
+
+Name: Insère »
+Description: Insère un guillemet fermant à la position du curseur.
+Binding: InsereGuillemetFermant
+Interactive: false
+
+Name: Insère ’
+Description: Insère une apostrophe incurvée à la position du curseur.
+Binding: InsereApostrophe
+Interactive: false
